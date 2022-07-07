@@ -1,5 +1,5 @@
 # Guardian 
-My first full python obfuscator![pDyWUNi](https://user-images.githubusercontent.com/108202522/177725502-586fccad-4c63-4952-ab4b-2f0410d83e19.png)
+My first full python obfuscator
 
 
 
